@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 const readline = require("readline");
 
-const RPC_URL = "https://rpc.mainnet.chain.robinhood.com";
+const RPC_URL = "https://robinhood-mainnet.g.alchemy.com/v2/QMLUNIOgb3SPxMycEEAKj";
 const CHAIN_ID = 4663;
 
 const PAYOUT_WALLET =
